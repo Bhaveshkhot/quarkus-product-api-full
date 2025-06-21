@@ -126,22 +126,22 @@ Application Startup
 (screenshots/startup.png)
 
 Create Product (POST)
-screenshots/post-create.png)
+screenshots/post.png)
 
 Get All Products (GET)
-(screenshots/get-all.png)
+(screenshots/Get.png)
 
 Get Product by ID (GET)
-(screenshots/get-by-id.png)
+(screenshots/Get_by_id.png)
 
 Update Product (PUT)
-(screenshots/put-update.png)
+(screenshots/Put.png)
 
 Stock Check
-(screenshots/stock-check.png)
+(screenshots/stock_check.png)
 
 Sorted Products
 (screenshots/sorted.png)
 
 Unit Test Results
-(screenshots/tests.png)
+(screenshots/UnitTest.png)
