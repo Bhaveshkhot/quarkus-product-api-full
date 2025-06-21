@@ -45,7 +45,7 @@ src/
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/quarkus-product-api-full.git
+git clone https://github.com/Bhaveshkhot/quarkus-product-api-full
 cd quarkus-product-api-full
 
 2. Start the application:
@@ -119,3 +119,29 @@ Update product
 Delete product
 Stock availability check
 Sorted listing
+
+## 📸 Screenshots
+
+Application Startup
+(screenshots/startup.png)
+
+Create Product (POST)
+screenshots/post-create.png)
+
+Get All Products (GET)
+(screenshots/get-all.png)
+
+Get Product by ID (GET)
+(screenshots/get-by-id.png)
+
+Update Product (PUT)
+(screenshots/put-update.png)
+
+Stock Check
+(screenshots/stock-check.png)
+
+Sorted Products
+(screenshots/sorted.png)
+
+Unit Test Results
+(screenshots/tests.png)
